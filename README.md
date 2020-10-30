@@ -1,5 +1,5 @@
-# Enigma Setup
-
+# Enigma SafeTrace SGX TEE Setup
+Forked from https://github.com/zank0201 and https://github.com/enigmampc/SafeTrace/blob/master/enclave/INSTALL.md
 
 ## Hardware
 
