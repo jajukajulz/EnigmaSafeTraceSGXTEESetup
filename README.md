@@ -26,7 +26,12 @@ First, make sure you have Rust installed: https://www.rust-lang.org/tools/instal
     cargo install bindgen
     ```
 
-Then you can use this script (or run the commands one-by-one), which was tested on Ubuntu 18.04 with SGX driver/sdk version 2.6:
+Then you can use this script (or run the commands one-by-one), which was tested on Ubuntu 18.04 with SGX driver/sdk version 2.6.
+
+To run enclave.sh:
+Make the script executable `$chmod +x enclave.sh`
+Run the script `$./enclave.sh`
+
 
 ```
 #! /bin/bash
